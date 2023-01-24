@@ -1,6 +1,6 @@
 {
   "Please note: if you are in Europe, you may need to change the value in 'baseUrl' below to": "https://mobile-sdk-lib-eu-1.brilliantcollector.com",
-  "baseUrl": "https://mobile-sdk-lib-ca-1.brilliantcollector.com",
+  "baseUrl": "https://sdk8.ibm.xtify.com",
 
   "appKey": {
     "prod":"gcuaDq4n35"

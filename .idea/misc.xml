@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.10729166666666666" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/0026f0ba48d208ad172c462461c3bc72/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/image_fragment.xml" value="0.1" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/0026f0ba48d208ad172c462461c3bc72/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/inapp_activity_main.xml" value="0.1" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/0026f0ba48d208ad172c462461c3bc72/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/mini_fragment.xml" value="0.1" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/0026f0ba48d208ad172c462461c3bc72/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/video_fragment.xml" value="0.1" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/cec5907743d8c66a7b6b9cc9d4df5691/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/mini_fragment.xml" value="0.1" />
+        <entry key="../../../../.gradle/caches/transforms-2/files-2.1/d39961daf42c1839e15f442a3f3568e8/jetified-acoustic-mobile-push-android-sdk-plugin-inapp-3.8.6/res/layout/mini_fragment.xml" value="0.10989583333333333" />
         <entry key="app/src/main/res/layout/activity_1.xml" value="0.10989583333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
