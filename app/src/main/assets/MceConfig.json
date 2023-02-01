@@ -2,6 +2,8 @@
   "Please note: if you are in Europe, you may need to change the value in 'baseUrl' below to": "https://mobile-sdk-lib-eu-1.brilliantcollector.com",
   "baseUrl": "https://mobile-sdk-lib-ca-1.brilliantcollector.com",
 
+  //updated baseURL to New One
+
   "appKey": {
     "prod":"gcuaDq4n35"
   },
